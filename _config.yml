@@ -15,10 +15,9 @@ author: Pham Dinh Tuan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Project:
+    - Facebook: "https://www.facebook.com/phamtuan0320/"
+    - Linkedin: "https://www.linkedin.com/in/phamdinhtuan/"
 
 # --- Logo --- #
 
@@ -39,10 +38,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: dinhtuan3955@gmail.com
-  facebook: https://www.facebook.com/phamtuan0320/
-  github: tuanpham200382
-  linkedin: https://www.linkedin.com/in/phamdinhtuan/
+  email: "dinhtuan3955@gmail.com"
+  facebook: "https://www.facebook.com/phamtuan0320/"
+  github: "tuanpham200382"
+  linkedin: "https://www.linkedin.com/in/phamdinhtuan/"
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
